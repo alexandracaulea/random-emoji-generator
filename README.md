@@ -4,4 +4,4 @@ Project was build in React
 
 ## Credit
 
-Emojis from getemoji.com
+Emojis from [getemoji.com](http://getemoji.com/)
