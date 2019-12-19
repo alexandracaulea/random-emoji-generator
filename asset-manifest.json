@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-emoji-generator/static/css/main.fc4e30d8.chunk.css",
+    "main.js": "/random-emoji-generator/static/js/main.230950cd.chunk.js",
+    "main.js.map": "/random-emoji-generator/static/js/main.230950cd.chunk.js.map",
+    "runtime-main.js": "/random-emoji-generator/static/js/runtime-main.61829de5.js",
+    "runtime-main.js.map": "/random-emoji-generator/static/js/runtime-main.61829de5.js.map",
+    "static/js/2.6c5bf649.chunk.js": "/random-emoji-generator/static/js/2.6c5bf649.chunk.js",
+    "static/js/2.6c5bf649.chunk.js.map": "/random-emoji-generator/static/js/2.6c5bf649.chunk.js.map",
+    "index.html": "/random-emoji-generator/index.html",
+    "precache-manifest.ba5417fad3211c33727263fc15739644.js": "/random-emoji-generator/precache-manifest.ba5417fad3211c33727263fc15739644.js",
+    "service-worker.js": "/random-emoji-generator/service-worker.js",
+    "static/css/main.fc4e30d8.chunk.css.map": "/random-emoji-generator/static/css/main.fc4e30d8.chunk.css.map",
+    "static/js/2.6c5bf649.chunk.js.LICENSE": "/random-emoji-generator/static/js/2.6c5bf649.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61829de5.js",
+    "static/js/2.6c5bf649.chunk.js",
+    "static/css/main.fc4e30d8.chunk.css",
+    "static/js/main.230950cd.chunk.js"
+  ]
+}
